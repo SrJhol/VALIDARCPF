@@ -32,3 +32,15 @@ body{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.massage.sucess {
+    background-color: #d4edda;
+    color: #155724;
+
+}
+
+.massage.error {
+    background-color: #f8d7da;
+    color: #721c24;
+
+}
