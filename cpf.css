@@ -33,20 +33,20 @@ body{
     cursor: pointer;
 }
 
-.massage{
+.message{
     margin-top: 10px;
     padding: 10px;
     border-radius: 5px;
     display: none;
 }
 
-.massage.sucess {
+.message.success {
     background-color: #d4edda;
     color: #155724;
 
 }
 
-.massage.error {
+.message.error {
     background-color: #f8d7da;
     color: #721c24;
 
