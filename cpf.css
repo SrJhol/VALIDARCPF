@@ -33,6 +33,13 @@ body{
     cursor: pointer;
 }
 
+.massage{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
+
 .massage.sucess {
     background-color: #d4edda;
     color: #155724;
